@@ -29,3 +29,22 @@ h2.rojo{
 p.naranja{
     color: rgb(212, 106, 68);
 }
+col.t1columna1{
+    width: 100px;
+}
+col.t1columna2y3{
+    width: 450px;
+}
+col.t2columna1{
+    width: 300px;
+}
+col.t2columna2{
+    width: 700px;
+}
+tbody.rojo{
+    font-size: 19px;
+    color: darkred;
+}
+th.resaltar{
+    background-color: #E8D0B9;
+}
